@@ -96,7 +96,6 @@ Brindar a comunidades urbanas, colegios y hogares una herramienta tecnológica q
 ---
 
 💡 **Notas Técnicas:**  
-💡 Notas Técnicas – VerdeMente Bot
 Este sistema integra tecnología inteligente orientada al bienestar físico y el progreso personal. Sus capacidades incluyen:
 
 ✅ Gestión precisa y profesional de mediciones corporales  
