@@ -6,9 +6,9 @@
 ![IoT](https://img.shields.io/badge/IoT-Internet_of_Things-green) 
 ![Educación](https://img.shields.io/badge/Educativo-Agricultura_Urbana-brightgreen)
 
-## 📋 Descripción del Proyecto
+## 📋 Descripción del Sistema
 
-**VerdeMente Bot** es un prototipo móvil diseñado para automatizar el monitoreo de variables agroambientales en huertos urbanos. Desarrollado como solución accesible, educativa y sostenible, este pequeño robot recorre cultivos en techos, patios o colegios, recolectando datos sobre humedad, pH, temperatura y luz, y enviándolos a una app que brinda recomendaciones.
+Es un prototipo móvil diseñado para automatizar el monitoreo de variables agroambientales en huertos urbanos. Desarrollado como solución accesible, educativa y sostenible, este pequeño robot recorre cultivos en techos, patios o colegios, recolectando datos sobre humedad, pH, temperatura y luz, y enviándolos a una app que brinda recomendaciones.
 
 ## 🎯 Propósito
 
@@ -41,20 +41,13 @@ Brindar a comunidades urbanas, colegios y hogares una herramienta tecnológica q
 [ Visualización de variables y recomendaciones ]
 ```
 
-## 📌 Características Principales
+## 🔍 Características Clave
 
 - 🚗 Prototipo móvil autónomo (con ruedas)
 - 📲 App conectada para visualizar variables en tiempo real
 - 🧠 Algoritmo configurable para activar alertas o sugerencias
 - 🌿 Enfoque educativo, sostenible y replicable
 - 🔋 Eficiente en consumo energético
-
-## 👨‍💻 Autor y Desarrollador
-
-**Julián A. Ramírez Caicedo**  
-🧠 CTO del proyecto VerdeMente Bot  
-🎓 Estudiante de Ingeniería de Sistemas  
-🔬 Apasionado por la tecnología educativa, la sostenibilidad y la innovación de impacto
 
 ## 🌎 Público Objetivo
 
@@ -78,17 +71,36 @@ Brindar a comunidades urbanas, colegios y hogares una herramienta tecnológica q
 | Desarrollo de app receptora    | ⚙️ En progreso   |
 | Validación en campo piloto     | ⚙️ En progreso  |
 
-## 🛡️ Licencia
+## 🛡️ Derechos de Autor y Uso
 
-Este proyecto está licenciado bajo la licencia **MIT**.  
-Puedes usarlo, modificarlo y adaptarlo libremente con fines educativos y no comerciales.  
-Consulta el archivo `LICENSE` para más detalles.
+© 2025 WoMo Soluciónˢ. Todos los derechos reservados.
 
-## 📬 Contacto
+**Condiciones de uso:**
+- Estrictamente confidencial
+- Prohibida la reproducción total o parcial
+- Requiere autorización expresa para cualquier implementación
 
-📧 **juliram81@hotmail.com**  
-🌐 [LinkedIn de Julián Ramírez](https://www.linkedin.com/in/julian-ramirez-caicedo/)  
-📱 [WhatsApp directo](https://wa.me/573180401930)
 
+## 📬 Contacto Corporativo
+
+**Julián Alberto Ramírez**  
+💻 CTO & Desarrollador Full Stack   
+⚙️ Automatización | 🧩 Soluciones software |💡 Innovador Tecnológico | 🔍 Apasionado por IA  
+🏢 **WoMo Soluciónˢ** - Soluciones Tecnológicas Avanzadas  
+
+📧 [Correo corporativo](mailto:womostd@gmail.com)  
+📧 [Correo alternativo](mailto:juliram81@hotmail.com)  
+📱 [WhatsApp](https://wa.me/573180401930)  
+🔗 [LinkedIn Corporativo](https://www.linkedin.com/company/womo-Solucions/)  
+   
+---
+
+💡 **Notas Técnicas:**  
 > 💬 *"La agricultura del futuro ya se cultiva desde las ciudades. VerdeMente Bot lo hace posible."*
+
+
+
+📅 **Control de Versiones**  
+ ![Versión](https://img.shields.io/badge/Versión-3.2.0-blue) ![Última Actualización](https://img.shields.io/badge/Actualizado-Mar_2025-green)
+
 
