@@ -99,17 +99,18 @@ Brindar a comunidades urbanas, colegios y hogares una herramienta tecnológica q
 💡 Notas Técnicas – VerdeMente Bot
 Este sistema integra tecnología inteligente orientada al bienestar físico y el progreso personal. Sus capacidades incluyen:
 
-✅ Gestión precisa y profesional de mediciones corporales
-✅ Seguimiento histórico automatizado de la evolución física
-✅ Sistema de reportes dinámicos y personalizables
-✅ Dashboard interactivo para visualización y análisis de datos físicos
+✅ Gestión precisa y profesional de mediciones corporales  
+✅ Seguimiento histórico automatizado de la evolución física  
+✅ Sistema de reportes dinámicos y personalizables  
+✅ Dashboard interactivo para visualización y análisis de datos físicos  
 
 “Tecnología consciente para transformar el bienestar físico y mental”
 > 💬 *"La agricultura del futuro ya se cultiva desde las ciudades. VerdeMente Bot lo hace posible."*
 
+---
 
+## 📅 Control de Versiones
 
-📅 **Control de Versiones**  
  ![Versión](https://img.shields.io/badge/Versión-3.2.0-blue) ![Última Actualización](https://img.shields.io/badge/Actualizado-Mar_2025-green)
 
 
