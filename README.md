@@ -86,12 +86,9 @@ Brindar a comunidades urbanas, colegios y hogares una herramienta tecnológica q
 **Julián Alberto Ramírez**  
 💻 CTO & Desarrollador Full Stack   
 ⚙️ Automatización | 🧩 Soluciones software |💡 Innovador Tecnológico | 🔍 Apasionado por IA  
-🏢 **WoMo Soluciónˢ** - Soluciones Tecnológicas Avanzadas  
-
-📧 [Correo corporativo](mailto:womostd@gmail.com)  
-📧 [Correo alternativo](mailto:juliram81@hotmail.com)  
-📱 [WhatsApp](https://wa.me/573180401930)  
-🔗 [LinkedIn Corporativo](https://www.linkedin.com/company/womo-Solucions/)  
+<img width="222" height="29" alt="Image" src="https://github.com/user-attachments/assets/24519130-f605-4762-a4f2-374c450f2b64" />  
+🏢 **Soluciones Tecnológicas Avanzadas**  
+<img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/09c23a95-e483-452e-880f-e7c90c222014" />
    
 ---
 
