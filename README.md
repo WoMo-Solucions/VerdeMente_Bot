@@ -1,4 +1,5 @@
-# 🌱 VerdeMente Bot - Agricultura Inteligente para Huertos Urbanos
+# 🌱 VerdeMente Bot 
+## Agricultura Inteligente para Huertos Urbanos
 
 ![Estado](https://img.shields.io/badge/🚀_En_Desarrollo-yellow) 
 ![Licencia](https://img.shields.io/badge/Licencia-📘_MIT-blue) 
@@ -82,13 +83,13 @@ Brindar a comunidades urbanas, colegios y hogares una herramienta tecnológica q
 
 
 ## 📬 Contacto Corporativo
-
 **Julián Alberto Ramírez**  
-💻 CTO & Desarrollador Full Stack   
+💻 Socio Fundador & Visionario Tecnológico
 ⚙️ Automatización | 🧩 Soluciones software |💡 Innovador Tecnológico | 🔍 Apasionado por IA  
 <img width="222" height="29" alt="Image" src="https://github.com/user-attachments/assets/24519130-f605-4762-a4f2-374c450f2b64" />  
 🏢 **Soluciones Tecnológicas Avanzadas**  
-<img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/09c23a95-e483-452e-880f-e7c90c222014" />
+<img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/09c23a95-e483-452e-880f-e7c90c222014" />  
+
    
 ---
 
