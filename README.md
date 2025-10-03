@@ -90,6 +90,7 @@ Brindar a comunidades urbanas, colegios y hogares una herramienta tecnológica q
 🏢 **Soluciones Tecnológicas Avanzadas**  
 <img width="150" height="150" alt="Logo" src="https://github.com/user-attachments/assets/09c23a95-e483-452e-880f-e7c90c222014" />  
 
+
 ---
 
 💡 **Notas Técnicas:**  
