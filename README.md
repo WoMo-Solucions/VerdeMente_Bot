@@ -84,7 +84,7 @@ Brindar a comunidades urbanas, colegios y hogares una herramienta tecnológica q
 
 ## 📬 Contacto Corporativo
 **Julián Alberto Ramírez**  
-💻 Socio Fundador & Visionario Tecnológico
+💻 Socio Fundador & Visionario Tecnológico  
 ⚙️ Automatización | 🧩 Soluciones software | 💡 Innovador Tecnológico | 🔍 Apasionado por IA  
 <img width="222" height="29" alt="Logo WSˢ" src="https://github.com/user-attachments/assets/24519130-f605-4762-a4f2-374c450f2b64" />  
 🏢 **Soluciones Tecnológicas Avanzadas**  
