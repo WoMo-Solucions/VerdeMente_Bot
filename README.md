@@ -1,6 +1,5 @@
 # 🌱 VerdeMente Bot 
 ## Agricultura Inteligente para Huertos Urbanos
-
 ![Estado](https://img.shields.io/badge/🚀_En_Desarrollo-yellow) 
 ![Licencia](https://img.shields.io/badge/Licencia-📘_MIT-blue) 
 ![Arduino](https://img.shields.io/badge/Arduino_R4_WiFi-blue?logo=arduino&logoColor=white) 
